@@ -11,3 +11,7 @@ https://www.softr.io/tools/svg-shape-generator
 IBB.CO
 
 https://imgbb.com/
+
+COR LARANJA:
+
+#F27121
